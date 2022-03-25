@@ -8,11 +8,11 @@
         <entry key="app/src/main/res/drawable/its_border.xml" value="0.118" />
         <entry key="app/src/main/res/drawable/textview_border.xml" value="0.118" />
         <entry key="app/src/main/res/drawable/textview_border.xml.xml" value="0.118" />
-        <entry key="app/src/main/res/layout-sw320dp-land/activity_main.xml" value="0.16" />
-        <entry key="app/src/main/res/layout-sw320dp/activity_main.xml" value="0.19375" />
-        <entry key="app/src/main/res/layout-sw720dp-land/activity_main.xml" value="0.2" />
+        <entry key="app/src/main/res/layout-sw320dp-land/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout-sw320dp/activity_main.xml" value="0.12" />
+        <entry key="app/src/main/res/layout-sw720dp-land/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout-sw720dp/activity_main.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
