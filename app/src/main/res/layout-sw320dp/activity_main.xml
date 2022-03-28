@@ -18,12 +18,34 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:background="#E6C395"
+        android:layout_marginTop="8dp"
+        android:elevation="10dp"
+        android:paddingTop="30dp"
+        app:cardCornerRadius="5dp"
+        app:layout_constraintStart_toStartOf="@+id/view"
+        app:layout_constraintTop_toTopOf="parent"
+        app:strokeColor="#000"
+        app:strokeWidth="1dp">
+
+        <ImageView
+            android:id="@+id/overlayImage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#E6C395"
+            android:scaleType="centerCrop"
+            android:src="@drawable/logo" />
+    </com.google.android.material.card.MaterialCardView>
     <TextView
         android:id="@+id/textView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="50dp"
         android:layout_marginEnd="16dp"
         android:background="@drawable/textview_border"
         android:padding="10dp"

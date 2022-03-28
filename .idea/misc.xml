@@ -3,15 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/bar.xml" value="0.118" />
         <entry key="app/src/main/res/drawable/btn_rounde.xml" value="0.118" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.118" />
         <entry key="app/src/main/res/drawable/its_border.xml" value="0.118" />
         <entry key="app/src/main/res/drawable/textview_border.xml" value="0.118" />
         <entry key="app/src/main/res/drawable/textview_border.xml.xml" value="0.118" />
-        <entry key="app/src/main/res/layout-sw320dp-land/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout-mcc720/activity_main.xml" value="0.22708333333333333" />
+        <entry key="app/src/main/res/layout-sw320dp-land/activity_main.xml" value="0.16" />
         <entry key="app/src/main/res/layout-sw320dp/activity_main.xml" value="0.12" />
-        <entry key="app/src/main/res/layout-sw720dp-land/activity_main.xml" value="0.1" />
-        <entry key="app/src/main/res/layout-sw720dp/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-sw720dp-land/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout-sw720dp/activity_main.xml" value="0.15" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
